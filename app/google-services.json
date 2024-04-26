@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607461611569",
+    "project_id": "bridgely-c7fad",
+    "storage_bucket": "bridgely-c7fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607461611569:android:b44ee0e5351946616f5d10",
+        "android_client_info": {
+          "package_name": "com.yusuf.bridgely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xyPyoSgbvhRlqAorzRZ9PYoh9m644RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
